@@ -1,0 +1,23 @@
+AI in Excel typically falls into these categories:
+
+Built-in AI Features
+
+Ideas / Insights: Automatically analyzes your data to show trends, summaries, and visualizations.
+
+Data Types & Smart Templates: Pulls live data (stocks, geography) and converts it into structured records.
+
+Formulas & Functions
+
+Advanced formulas for data manipulation, like:
+
+TEXTJOIN, FILTER, UNIQUE, XLOOKUP, LET, LAMBDA
+
+These let you automate patterns before applying AI.
+
+AI-powered Add-ins & Integrations
+
+Power Query + Power BI: AI transformations and predictive analytics.
+
+Azure Machine Learning / OpenAI integration: For predictions, text analysis, or generating content.
+
+GPT/LLM Add-ins: Use natural language to analyze or generate Excel data.
