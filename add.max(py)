@@ -1,0 +1,2 @@
+max_value = max(numbers)
+print("Highest value:", max_value)
